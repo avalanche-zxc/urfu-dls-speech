@@ -15,3 +15,9 @@ Notebook содержит получение исходных открытых �
 [Оригинальное задание DLS](https://github.com/DeepLearningSchool/Speech/blob/main/week_02_speech_representations/Homework/unsolved_DLS_HW2__Beyond_the_Fundamental_A_Spectral_Adventure.ipynb).
 
 Публикация в GitHub сама по себе не подтверждает сдачу или оценку в УрФУ. Процент прохождения курса по этим материалам пока не установлен.
+
+## Homework 3 — самообучение аудиопредставлений
+
+[Notebook](https://github.com/avalanche-zxc/urfu-dls-speech/blob/main/HW03/Cheremisin_Speech_HW3_Self_Supervised.ipynb) · [Результаты и воспроизведение](HW03/README.md) · [Colab](https://colab.research.google.com/github/avalanche-zxc/urfu-dls-speech/blob/main/HW03/Cheremisin_Speech_HW3_Self_Supervised.ipynb)
+
+Три подхода обучены на полном AudioMNIST; одинаковая проверка на новых дикторах. Подготовлено, в eLearn не отправлено.
